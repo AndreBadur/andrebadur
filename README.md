@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, Guys!!! 👋
 
-<!--
-**AndreBadur/andrebadur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ### Synvia Company
+- 🌱 I’m currently starting develop and Im really excited 
+- 👯 I’m looking to collaborate with everybody 
+- 🤔 I’m looking for help with Groovy.
+- 💬 Ask me about network connections and computer architecture 
+- 📫 How to reach me: send me e-mail on andrebadur123@gmail.com
+- 😄 Pronouns: Andre Marques de H(R)eld Badur
+- ⚡ Fun fact: Im no words singer all the time
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Lets go be better than yesterday!
 -->
