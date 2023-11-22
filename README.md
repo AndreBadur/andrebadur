@@ -9,4 +9,3 @@
 - Quem é o melhor organizador de festa da história? Napoleão Bonaparty
 
 ### Lets go be better than yesterday!
--->
