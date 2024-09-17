@@ -1,6 +1,6 @@
 ### Hi there, Guys!!! 👋
 
-- 🔭 I’m currently working on Synvia Company
+- 🔭 I’m currently looking for work
 - 🌱 I’m currently starting develop and Im really excited 
 - 👯 I’m looking to collaborate with everybody 
 - 🤔 I’m looking for help with AWS
