@@ -1,11 +1,7 @@
 ### Hi there, Guys!!! 👋
 
-- 🔭 I’m currently looking for work
-- 🌱 I’m currently starting develop and Im really excited 
-- 👯 I’m looking to collaborate with everybody 
-- 🤔 I’m looking for help with AWS
-- 💬 Ask me about network connections and computer architecture
+- 🌱 learning JavaScript, Next, React, Template.yml, AWS Services and Functions.
+- 👯 working with Encora and my team at Fatec Campinas college  
 - 📫 How to reach me: send me e-mail on andrebadur123@gmail.com
-- Quem é o melhor organizador de festa da história? Napoleão Bonaparty
 
-### Lets go be better than yesterday!
+### convert energy and actions in what you believe
