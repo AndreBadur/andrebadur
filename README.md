@@ -1,4 +1,4 @@
-### Hi there, Guys!!! 👋
+### hello, see how things is going on
 
 - 🌱 learning JavaScript, Next, React, Template.yml, AWS Services and Functions.
 - 👯 working with Encora and my team at Fatec Campinas college  
