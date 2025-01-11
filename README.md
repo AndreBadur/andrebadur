@@ -1,6 +1,6 @@
 ### hello, see how things is going on
 
-- 🌱 learning JavaScript, Next, React, Template.yml, AWS Services and Functions.
+- 🌱 learning TypeScript, Next, React, AWS Services.
 - 👯 working with Encora and my team at Fatec Campinas college  
 - 📫 How to reach me: send me e-mail on andrebadur123@gmail.com
 
