@@ -5,4 +5,5 @@
 - 📫 How to reach me: send me e-mail on andrebadur123@gmail.com
 - :headphones: enjoying the time with gipp project.
 - :swimmer: swimming as much as I can
+- :violin: :musical_score: in love with music
 ### convert energy and actions in what you believe
