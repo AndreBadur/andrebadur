@@ -6,4 +6,5 @@
 - :headphones: enjoying the time with gipp project.
 - :swimmer: swimming as much as I can
 - :violin: :musical_score: in love with music
+- :book: exploring philosophy and fantasy :rice_scene:
 ### convert energy and actions in what you believe
